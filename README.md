@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Loknath 👋
+
+I just learnt that there is a thing called "special repository", as always I jumped in and created the special repo and now I don't know what to put here.
+
+Enjoyer of open world games, whenever I'm not gaming I'll be programming. I am sorta good with .NET, JS, C, Python and C++ ecosystem's in that order. 👋
 
 <!--
 **loknath2002/loknath2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
